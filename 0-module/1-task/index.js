@@ -1,11 +1,7 @@
 function sum(m, n) {
-  var num = n + m;
-  alert(num);
+  return m + n;
+
 }
 sum(1, 1);
 
-function sumOne(m, n) {
-  var numOne = m + n;
-  alert(numOne);
-}
-sumOne(2, 5);
+
